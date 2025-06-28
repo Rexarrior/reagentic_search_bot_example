@@ -1,0 +1,10 @@
+{
+  "structure": "Comprehensive search system memory for storing search history, preferences, and context during an interactive session.",
+  "key_based": {
+    "agent_type": "comprehensive_search_assistant",
+    "search_capabilities": "web, news, image, academic, smart",
+    "memory_integration": "enabled",
+    "session_turn": "1"
+  },
+  "raw": ""
+}
