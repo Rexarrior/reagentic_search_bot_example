@@ -1,6 +1,6 @@
 # Reagentic Search Example
 
-This example demonstrates how to build a web search agent using the Reagentic framework.
+This example demonstrates how to build a web search agent using the [Reagentic framework](https://github.com/Rexarrior/reagentic).
 
 ## Overview
 
